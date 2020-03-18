@@ -1,0 +1,12 @@
+[{
+    "CountryId": 1,
+    "CountryName": "USA"
+  }, {
+    "CountryId": 2,
+    "CountryName": "Canada"
+  },
+  {
+    "CountryId": 3,
+    "CountryName": "Mexico"
+  }
+]

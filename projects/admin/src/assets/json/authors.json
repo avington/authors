@@ -1,0 +1,15 @@
+[{
+  "AuthorId": 1,
+  "AuthorName": "Lee Child",
+  "Country": {
+    "CountryId": 1,
+    "CountryName": "USA"
+  }
+}, {
+  "AuthorId": 2,
+  "AuthorName": "John Doe",
+  "Country": {
+    "CountryId": 1,
+    "CountryName": "USA"
+  }
+}]
