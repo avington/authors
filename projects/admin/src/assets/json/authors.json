@@ -9,7 +9,7 @@
   "AuthorId": 2,
   "AuthorName": "John Doe",
   "Country": {
-    "CountryId": 1,
-    "CountryName": "USA"
+    "CountryId": 2,
+    "CountryName": "Canada"
   }
 }]

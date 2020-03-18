@@ -43,7 +43,7 @@ export class AppComponent implements OnInit {
         this.closeEditor(sender);
         this.formGroup = this.fb.group({
             AuthorName: [dataItem.AuthorName],
-            CountryId: [1],
+            CountryId: [dataItem.Country.CountryId],
         });
 
         this.editedRowIndex = rowIndex;
